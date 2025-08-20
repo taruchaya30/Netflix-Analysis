@@ -186,12 +186,18 @@ GROUP BY  MOVIE_CATEGORY
 ```
 
 #Tech Stack
+
+
 PostgreSQL
+
+
 SQL (Window Functions, CTEs, String Functions, Date Functions)
 
 
 #Author
+
 Taruchaya Shanker
+
 Lucknow, India
 
    
