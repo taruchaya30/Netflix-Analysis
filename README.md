@@ -193,6 +193,6 @@ GROUP BY  MOVIE_CATEGORY
 
 
 
-#Author - Taruchaya Shanker, Lucknow India
+#Author - Taruchaya Shanker
 
    
